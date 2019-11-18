@@ -43,6 +43,16 @@ Some HTML, CSS and JS files
 
 Follow my progress on github
 
+
+<div>
+  <h1>
+    About Page
+  </h1>
+
+  <p> This is the About Page. This index was created in Week 4 work on Version Control </p>
+
+</div>
+
 </body>
 
 </html>
